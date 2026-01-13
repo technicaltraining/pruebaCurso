@@ -7,3 +7,5 @@ Mi nombre es Neri, estoy haciendo un curso.
 Este curso es en 2026.
 
 Comenzando con git.
+
+commit de prueba
