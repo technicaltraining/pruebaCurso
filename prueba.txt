@@ -8,4 +8,6 @@ Este curso es en 2026.
 
 Comenzando con git.
 
-commit de prueba
+commit de prueba.
+
+otro commit
